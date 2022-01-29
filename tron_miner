@@ -1,0 +1,1 @@
+./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user TRX:TSkxz52iY7ER6VX32npKuHAex3n71S3egZ.tron_miner1 --ethstratum ETHPROXY
